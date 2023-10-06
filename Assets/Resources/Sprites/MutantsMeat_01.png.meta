@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: e69bcca98bcce6c43bd919f6634e7a34
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MutantsMeat_01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 48
+        height: 95
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b41df85461b63945aa0c2259e0b2e86
+      internalID: -2020997791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 48
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675d290e1b873748a76507a50563391
+      internalID: -415788803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 302
+        width: 97
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e4008568ec52e4bb21705c8f9c2bc0
+      internalID: 727833613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 302
+        width: 97
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61239321a3f33004ca170d1e518fd02e
+      internalID: -1927482099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 302
+        width: 93
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac62380885f44e4eae1191969d31ff7
+      internalID: -1255931499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 352
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b9423ca5760c40920c72b553714bf
+      internalID: -922233657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 352
+        width: 84
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf5707acc6b694a9b73c47b242e375
+      internalID: 275439042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 352
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91785a204fc5613499cb9d9f8c2dbd28
+      internalID: -2009325092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 352
+        width: 40
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e9cc23b7986549b15d872816da681
+      internalID: -319067914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_9
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 352
+        width: 41
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737a03fd07fb3d4a86194d7926ffeea
+      internalID: 653871180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_10
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 310
+        width: 48
+        height: 82
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b3d5d519ed676409be4c54467c2385
+      internalID: 991362195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_11
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 302
+        width: 92
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a51f9b0febb30445a28bfd1f15b9479
+      internalID: 1199835572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_12
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 305
+        width: 98
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166100a3fa54d042a4bd31016f7fbe5
+      internalID: 1189244246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 302
+        width: 78
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab162223e9409154c9e6b19e5367803a
+      internalID: -854604075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 302
+        width: 40
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fdae2757dbbd940ab4d092d3411443
+      internalID: -1928794961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 308
+        width: 48
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad86f4fdc3597a4aad0d4c8fbe35ffb
+      internalID: 1244650422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_16
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 302
+        width: 40
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c0843fb28488d4b827af964d820cd7
+      internalID: -1173049165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 202
+        width: 98
+        height: 97
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3201a0babbac1f344aab72eb04398215
+      internalID: -1932948984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 202
+        width: 98
+        height: 97
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912c06768c667b645888cabc8691f8c2
+      internalID: -750168620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 202
+        width: 95
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e321c8f98769744803a31171982e63
+      internalID: 773573033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 210
+        width: 48
+        height: 82
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438dc5b5d5a97745b1a55f2bff69a82
+      internalID: 811595080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 212
+        width: 48
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4d2c71dd9f96b49991d190e30f0280
+      internalID: -772818162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 252
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7cd15fca2cb2b44aa719ad4845b1fc
+      internalID: -1009390082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 252
+        width: 40
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108332cf478bce04982d8248e91a2e6c
+      internalID: -154598878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_24
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 252
+        width: 43
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d18ba43c3315b840a1606202617fbb2
+      internalID: -1008262281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_25
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 252
+        width: 66
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2971d5906bd11e5468baf5fe4c5effdb
+      internalID: -472754074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_26
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 205
+        width: 98
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c638376ba7fbf04ca43311c27859c00
+      internalID: 156638532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 202
+        width: 43
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1373e37a683a6eb489dff5ee97e80b00
+      internalID: -1374640126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_28
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 202
+        width: 40
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2880461d56c384b8ff29c9062738aa
+      internalID: -1529796438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_29
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 202
+        width: 43
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf053d171c5c0c4198bbebe11c90af4
+      internalID: 651384170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 202
+        width: 43
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453c3dcf7a0fd149abc34958ca26c4f
+      internalID: 363325240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_31
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 202
+        width: 43
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3701edf819e7e48a015cf58144132d
+      internalID: 683968716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 152
+        width: 82
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a094be25da098214ebd492ed1161c5d9
+      internalID: 1233210152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 104
+        width: 98
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c2cc9597114d2408ff2105aaddaa2b
+      internalID: 1772270444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 101
+        width: 93
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc59a9884c83240bad29b539a8aff5
+      internalID: -2066144787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 102
+        width: 87
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d57d19c070084e8b220700c46faf1
+      internalID: -1697802348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_36
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 102
+        width: 96
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa7aaa7084ca346996f97bc0fd2568
+      internalID: 628873490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_37
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 152
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6ff9bd53fa44445898ea810e027f12
+      internalID: -653381476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_38
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 105
+        width: 98
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45cb1da481c348478403c0508c9c3b0
+      internalID: -466695307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_39
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 105
+        width: 97
+        height: 91
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f2093be8b23674e98b89a6fa79558b
+      internalID: 893491380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 5
+        width: 98
+        height: 91
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4269e75abdd7e9d4a9728112d84c64da
+      internalID: 1367108616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4
+        width: 98
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e0762617eb0b742aef34d23de33f41
+      internalID: -1631429381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantsMeat_01_42
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2
+        width: 97
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2775b8da2356f4292002a31b6987d2
+      internalID: 638813150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 88d7bfb14be92c44ba31f03734e16cdd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MutantsMeat_01_0: -2020997791
+      MutantsMeat_01_1: -415788803
+      MutantsMeat_01_10: 991362195
+      MutantsMeat_01_11: 1199835572
+      MutantsMeat_01_12: 1189244246
+      MutantsMeat_01_13: -854604075
+      MutantsMeat_01_14: -1928794961
+      MutantsMeat_01_15: 1244650422
+      MutantsMeat_01_16: -1173049165
+      MutantsMeat_01_17: -1932948984
+      MutantsMeat_01_18: -750168620
+      MutantsMeat_01_19: 773573033
+      MutantsMeat_01_2: 727833613
+      MutantsMeat_01_20: 811595080
+      MutantsMeat_01_21: -772818162
+      MutantsMeat_01_22: -1009390082
+      MutantsMeat_01_23: -154598878
+      MutantsMeat_01_24: -1008262281
+      MutantsMeat_01_25: -472754074
+      MutantsMeat_01_26: 156638532
+      MutantsMeat_01_27: -1374640126
+      MutantsMeat_01_28: -1529796438
+      MutantsMeat_01_29: 651384170
+      MutantsMeat_01_3: -1927482099
+      MutantsMeat_01_30: 363325240
+      MutantsMeat_01_31: 683968716
+      MutantsMeat_01_32: 1233210152
+      MutantsMeat_01_33: 1772270444
+      MutantsMeat_01_34: -2066144787
+      MutantsMeat_01_35: -1697802348
+      MutantsMeat_01_36: 628873490
+      MutantsMeat_01_37: -653381476
+      MutantsMeat_01_38: -466695307
+      MutantsMeat_01_39: 893491380
+      MutantsMeat_01_4: -1255931499
+      MutantsMeat_01_40: 1367108616
+      MutantsMeat_01_41: -1631429381
+      MutantsMeat_01_42: 638813150
+      MutantsMeat_01_5: -922233657
+      MutantsMeat_01_6: 275439042
+      MutantsMeat_01_7: -2009325092
+      MutantsMeat_01_8: -319067914
+      MutantsMeat_01_9: 653871180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

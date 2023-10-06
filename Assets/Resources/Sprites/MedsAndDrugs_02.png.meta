@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: 2b0e93d65efa10f439544dedb5f70922
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e46e7c9df9a1c4199ac0556762db6a
+      internalID: -1635045140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14022f3557ae5499520d8a27625561
+      internalID: -1405913757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f5bf72d289ca6489f6e4f7c0c7c2be
+      internalID: 153549618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb48f9bfcab4b9408a60109b4550041
+      internalID: 791144936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df077c1682f337a4aa94862a3e1b254a
+      internalID: 1681252552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88de177e0fae394fad872fd5e5a18f7
+      internalID: 274809707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1acd16f8100134a8b012bf1bbc10fd
+      internalID: -1165129755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 52
+        width: 48
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c407e006d31547aa31eddf4dc7ebc
+      internalID: 1401415883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 51
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ea398df095e04db71db85ef9e9cf4
+      internalID: -900364956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d52f178abd3bf4d9843f43e5876000
+      internalID: 1013173809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c916993ba0afd4348a922d7f682e44f9
+      internalID: 986842312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d2a4f026feb5245bddb0fa61aa689d
+      internalID: -770763560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634fafca5731f24eb1026325be748c7
+      internalID: 1647113167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417abedfaaae3a04296db16f8cde50a6
+      internalID: -1662765636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_14
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e0ce379df6c345ae3cdfb403d0bb4
+      internalID: 230782468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_15
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a54972240139d446b95b54d93047956
+      internalID: 1409169750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_16
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7336bcd75efd8c4191b11fcfeb35434
+      internalID: -215449575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4bac9b55f19cd4dba8913f15f3f3fd
+      internalID: 974372961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_18
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb97d426bda34a4ea017886b8ddd665
+      internalID: -2120007999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c62c6e448f84649bec70876dc39a17
+      internalID: -1810493868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 48
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e82b9bc96269d245b147ae6e2a6fa5c
+      internalID: 558405364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46505a9bcadfcd04284fd917f3cdf63c
+      internalID: 1005626413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4470d66bc50d5645b43c0b5ead6ea12
+      internalID: 24351523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb05f3896969b44844d49be5c217d9
+      internalID: 1263138881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ba0b0658219fc408cddcc2d1e2fd57
+      internalID: -1477059410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180de10700576cc439b9701be6eea16c
+      internalID: -685096932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d051680b3648b549bfbffdd1c8d337d
+      internalID: 111297236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d635561bc4b156147a6c1c60c7ecca69
+      internalID: 752956178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_28
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c81af51117b94e4089d769cbeb94aea
+      internalID: 914462075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_29
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57476863671b9940917f55e3d38ef97
+      internalID: -1680085222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_30
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedadbc957a3e9540b48016ef5fafdae
+      internalID: 432651027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_31
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9943876de9ffd8247a121155f7ebac36
+      internalID: 373735591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_32
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53358c9b38fdf41ae95b5564b0317f
+      internalID: -2132390176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_33
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7a7d7bf34d594ca743f50a1554336
+      internalID: -1179422817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_34
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e3b73564aee24b80b3a84c829aa32
+      internalID: -996640912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_35
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8579089c2c980984a9cd2f9509f9fbc5
+      internalID: -1794358696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_36
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d32d45fbe91342bc8f52c8fb93ffb
+      internalID: -85476670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedsAndDrugs_02_37
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08986a0f1da10664186d64774cf3e597
+      internalID: 529680552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 246b3211fffbb3742b3ab66fd9a5575f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MedsAndDrugs_02_0: -1635045140
+      MedsAndDrugs_02_1: -1405913757
+      MedsAndDrugs_02_10: 986842312
+      MedsAndDrugs_02_11: -770763560
+      MedsAndDrugs_02_12: 1647113167
+      MedsAndDrugs_02_13: -1662765636
+      MedsAndDrugs_02_14: 230782468
+      MedsAndDrugs_02_15: 1409169750
+      MedsAndDrugs_02_16: -215449575
+      MedsAndDrugs_02_17: 974372961
+      MedsAndDrugs_02_18: -2120007999
+      MedsAndDrugs_02_19: -1810493868
+      MedsAndDrugs_02_2: 153549618
+      MedsAndDrugs_02_20: 558405364
+      MedsAndDrugs_02_21: 1005626413
+      MedsAndDrugs_02_22: 24351523
+      MedsAndDrugs_02_23: 1263138881
+      MedsAndDrugs_02_24: -1477059410
+      MedsAndDrugs_02_25: -685096932
+      MedsAndDrugs_02_26: 111297236
+      MedsAndDrugs_02_27: 752956178
+      MedsAndDrugs_02_28: 914462075
+      MedsAndDrugs_02_29: -1680085222
+      MedsAndDrugs_02_3: 791144936
+      MedsAndDrugs_02_30: 432651027
+      MedsAndDrugs_02_31: 373735591
+      MedsAndDrugs_02_32: -2132390176
+      MedsAndDrugs_02_33: -1179422817
+      MedsAndDrugs_02_34: -996640912
+      MedsAndDrugs_02_35: -1794358696
+      MedsAndDrugs_02_36: -85476670
+      MedsAndDrugs_02_37: 529680552
+      MedsAndDrugs_02_4: 1681252552
+      MedsAndDrugs_02_5: 274809707
+      MedsAndDrugs_02_6: -1165129755
+      MedsAndDrugs_02_7: 1401415883
+      MedsAndDrugs_02_8: -900364956
+      MedsAndDrugs_02_9: 1013173809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3110 @@
+fileFormatVersion: 2
+guid: 4ea2b1828692f0943b92d64c05b2c9b0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ammo_01_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 651
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b90c394f34d8c4c89557548ca0ae93
+      internalID: 87202651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 651
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ebece0b5dc8b540b5c4ca943c38896
+      internalID: -1432320125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 651
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b238acb8d6fa4eb9ff2f00e9c5ece
+      internalID: -796707515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 651
+        width: 87
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6b52f49941684e9b6e14fcb2213f3
+      internalID: 1599472183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 651
+        width: 87
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e46a0d185b1a4ca22c291fd92c367
+      internalID: -850728400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 651
+        width: 87
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a2e4540f3cc244a54cbe86b8dcd48
+      internalID: -1880100764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 651
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aa9bca988f7bb4c952541500b3c6e6
+      internalID: -1418466895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 651
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b82f570383f02f4fa2630b28785a856
+      internalID: -367678377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_8
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 651
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a2e48e5c279c94c9fd3ba14c5d4014
+      internalID: 286699825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_9
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 651
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a759276b0bd56c043bd57348b292ecad
+      internalID: -1683648066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 601
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05e39a545949d4ba1733870066c881
+      internalID: -2137163184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 601
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3d96abf73deb049bd078add532b2da
+      internalID: -519475118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 601
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40904808205efcd4cabda32e88a6c452
+      internalID: -1123721374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 601
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49df487bc09bca44da64e5f6da924567
+      internalID: 288846764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 601
+        width: 85
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e35f209d640f45bfb15bf69e100e3
+      internalID: 1660928995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 601
+        width: 87
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd82bc5317d58e6429a8aac138ff8540
+      internalID: -48892687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_16
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 601
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd5fb007f37a74dbe3fe95b492eb76
+      internalID: -962219084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_17
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 601
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b5269858ae5140821f1aca46ff289
+      internalID: 1608035954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_18
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 601
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569442ff4f59564eb380e06ef943fd5
+      internalID: -802432740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_19
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 601
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ee079193cd2f4a896631516b07751
+      internalID: 218116595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 551
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b785421db7f3a45bea2c75888a4c46
+      internalID: -1341183555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 551
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad878f85e47a24aa522143a175e662
+      internalID: -970458938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 551
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dbf3aea29863f4cb4cbfd8b772056e
+      internalID: -93737601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 551
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137b89607dab4443a20ee72711662bc
+      internalID: 1671395114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 551
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d2bf5cd96b434eb023980c689d50a
+      internalID: -1483981176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_25
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 551
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aca1e4771178814887fa4d5dfa83932
+      internalID: -1761648233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 551
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee860b37fa06db448001c20d48ac9db
+      internalID: -866589641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_27
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 551
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86cf2e61102eee4b991fa0ef4d133e7
+      internalID: -248247505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_28
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 551
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84fcdd22380d9a419852f60bc0ef4d9
+      internalID: 2095930813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_29
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 551
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2550b522f724e5e43a01e1a42b00b1cb
+      internalID: 1895979384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_30
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 551
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee29e84100148704bb38ad49cbfc8df1
+      internalID: 1193166173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 501
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea975f3bf03b3b4fa50ec01c6cc97f0
+      internalID: 1580186716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 501
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b71377f45e5c45868e27b7c5bd5e7
+      internalID: -392053836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 501
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a88eefeae20c4c863d0baefbaad0d
+      internalID: -2105703541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 501
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f692ab525dad514f95a96ab319a6eae
+      internalID: -1981409614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 501
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb37e5690687cf4c95ac6e1e0b23183
+      internalID: 997931565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_36
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 501
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1404f27a5dd9e0047828195de234d7a9
+      internalID: -2020093155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 501
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac834b07614714cb00a63ae5d4ed31
+      internalID: -494780418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_38
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 501
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dcf31c3a9e37e439c4ec05930fbc88
+      internalID: -490931643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_39
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 501
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a709e3a4a831c4dbdbd3fe303234ee
+      internalID: -1515054606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_40
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 501
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf112d6488534943b9fc4c2572dca4d
+      internalID: 1106052739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_41
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 501
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab12f6542d243e4bba200273a2051f5
+      internalID: -96086214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 451
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd15fa7a2c5064093c6e163a92da1c
+      internalID: -323715886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 451
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13154a85410ebd64b9d18448aa0c9b5d
+      internalID: -1587455012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 451
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d884030516ab743b82de93905606ba
+      internalID: -1008570369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 451
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48341f731c28c994cbffb71d5e4ecdd6
+      internalID: 1021723148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_46
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 451
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c38c9019109ac5408b90b5708d222b6
+      internalID: 2080029505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_47
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 451
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1e250c84eb974c9eed59b817decaf
+      internalID: 672740678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_48
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 451
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b06782c6ff7b9f478a81246783c5923
+      internalID: 123930162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_49
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 451
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177efedf98115e8468d40011ecf8a12c
+      internalID: -1260497420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_50
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 451
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01caa9c27c930414f98a0525db5b910e
+      internalID: 202125593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_51
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 451
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025fe8ccca1b43b4d8784190dfd97fc6
+      internalID: -1782723168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_52
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 451
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8164e0d48f8f1498ed66b5b91e02ed
+      internalID: 606038970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 401
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e3e2f85129e74aa6db8dc77607c17
+      internalID: 1800969630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 401
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f1ce9a4aa57b439b7b3b692bad79d
+      internalID: -1238358525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 401
+        width: 89
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0869b0fcd5100c344872e12835226486
+      internalID: 259509450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 401
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a279ed43339aa043ba480570915b7f7
+      internalID: -1492578716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_57
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 401
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d804d348dc3b72c46aa65db37c38b80b
+      internalID: 1236772301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_58
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 401
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae2baab9e80625448963afb0210d585
+      internalID: 459345134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_59
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 401
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54cb929d411fc49981c30a08cd7c35
+      internalID: 232655038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_60
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 401
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c63d24e49546439224cce5168c745
+      internalID: 1400716924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_61
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 401
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f099b9787750114ebfbc6b28aa15517
+      internalID: 905721703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_62
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 401
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0457be034b060af4eb7dd4d6c956c82e
+      internalID: -1191976306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_63
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 401
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5dcfbe1c1d78e448ed9e8674a537b1
+      internalID: 1166038616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 351
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b83615f34743348bcd828590851897
+      internalID: -1275164680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_65
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 351
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eccdf9c7d329e54b9637f274c246ded
+      internalID: -742368897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_66
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 351
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fb8f44b61068049829b2158a1ce2fc
+      internalID: -1045405954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_67
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 351
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132cccb7033fa68498b5270df607f172
+      internalID: 726574223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 351
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030904a1982aaec43aab7ae1c551b583
+      internalID: -634832238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_69
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 351
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9032fd4df822ac8448ca9016acecfd46
+      internalID: 2064649204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_70
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 351
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60503df5bcfd0a349952d2a9f1f70f00
+      internalID: 1890648039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_71
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 351
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b605c9550902db4180664b3863622ac
+      internalID: 2029689048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_72
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 351
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f54fe85a1d7f343a5dbc7b51493d36
+      internalID: 341891325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_73
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 351
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2632ec11b22ca04e8c91f5f4397154f
+      internalID: -1568569211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_74
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 351
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b785e5dc540c61a4493ec6899f8363aa
+      internalID: -1827632105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 301
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c041affd51ebab458d22e225faaff64
+      internalID: -1954173383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_76
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 301
+        width: 92
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e67142542dab234e8ef939414541940
+      internalID: 241145656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_77
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 301
+        width: 92
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35957b2f45dd22345bc8113b009fd99e
+      internalID: -187064054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 301
+        width: 95
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8b9b96359e4f5459ca6b16feb2bcba
+      internalID: 1397755384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_79
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 301
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c1a361b798f747bf419d7587bf3b0
+      internalID: 540100428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_80
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 301
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671191b44ad5a04ab1a5847581c4718
+      internalID: 1364174896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_81
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 301
+        width: 92
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143e2de6981f7f478fb0bdb8c97c322
+      internalID: -1120364807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_82
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 301
+        width: 92
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8044844d2a43764081733e11f921b3f
+      internalID: 252418159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_83
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 301
+        width: 92
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355b1a5abab84384186e3fc0130d3a8b
+      internalID: -844693832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 251
+        width: 91
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cffc616806f524eb8a03875d1393f9
+      internalID: 1140876781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 251
+        width: 91
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8515b07f005f72d4db6a23ebfa472d8d
+      internalID: -183791794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 251
+        width: 91
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e97a7ba4b88f48b5ab5b01b02f8e4
+      internalID: 1953362793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_87
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 251
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c4c396a23b531408c6b7c66c73cdd5
+      internalID: -1147462156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_88
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 251
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3660017c27efa247969e20ddbe24827
+      internalID: -1006264183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_89
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 251
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41147b3829585144abd8ecfab2ab7c3c
+      internalID: -1666310657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_90
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 251
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a45f4794ec4524ca58ce72ca403d72
+      internalID: 1095896204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_91
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 251
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2172c5f625849c44bf18b11209ba3a3
+      internalID: 1565903183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_92
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 251
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c0173f8e548a742943f194785ebc15
+      internalID: -345046326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 201
+        width: 91
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff575778c85fe84a890a893cdafb6b4
+      internalID: 1920820720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 201
+        width: 91
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ecebd303ae7dc41a8187c1945df007
+      internalID: -2133901285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 201
+        width: 91
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22975f05d86ee946a4f4f8a40a39e78
+      internalID: -830743424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_96
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 201
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97e1b45870ea3a418243f167ec80d4c
+      internalID: 6562342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_97
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 201
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c91e1b17bfaca749af89302773b2c97
+      internalID: 941360589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_98
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 201
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4e1c4e87f301478cf8e2f0266d3f8
+      internalID: -1010043993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_99
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 201
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8215f92625d90438e96b71982fa3ed
+      internalID: -1856205829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_100
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 201
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66917f08705934191ee283f9346aa0
+      internalID: 647714877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_101
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 201
+        width: 93
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f01061a6d8bb74cbcf6f5a53346092
+      internalID: 589675601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c5f167bb2e8554fbafa914b6b8102d
+      internalID: 710627524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_103
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 151
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4b0addb198a1140b1a4ff5e01cd48c
+      internalID: 620160019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_104
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b432da5ccfc6774fbacaaa8dd236e61
+      internalID: -132106489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_105
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 151
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348496d746ba89448f9fbe959aa533c
+      internalID: 1336180380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 151
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd92936d2ab501645a44c5e51f5c7e1e
+      internalID: -83681283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_107
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 151
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350932f3f96b5ae49a1692b0a05f485d
+      internalID: -1483352153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_108
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 151
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f749bafd420ea4689cf4424a849dc5
+      internalID: 1277004678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_109
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 151
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeefeb2cafbc6c43972fe99eab506d8
+      internalID: 1777076060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_110
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 151
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745b7dfb03fa4641967557a5b272462
+      internalID: 1091282459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2703d6b0ab4125f4b9e253833c70ca15
+      internalID: 365638252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_112
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a82bc852d5f3f648a74f940aad5f8a3
+      internalID: -332623030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_113
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 101
+        width: 98
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b8bc9787cb7d4481c4546e5cd07e5
+      internalID: 1531301219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_114
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 101
+        width: 80
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6f8d5cbd4ae2d4a9dc44dccd020444
+      internalID: 2017805533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_115
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 101
+        width: 13
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a2252efda0154abd690d66612d8ea
+      internalID: -926698601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_116
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 101
+        width: 86
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0aeef1693d0114a90b81cc2963feaa
+      internalID: 290101250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 101
+        width: 13
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22204140c23431c459d6ff9979ecd254
+      internalID: -784100456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_118
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 101
+        width: 80
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11b27169cfcda4c822e56b4d4b6a02
+      internalID: 1831040913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_119
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 101
+        width: 13
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e39bfab5edef046a9f1deffe64b0bb
+      internalID: 109510991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_120
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 101
+        width: 148
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c630364c3e8446b745aadd91137a3
+      internalID: 1459318328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_121
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 101
+        width: 148
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e899de9abfb57a4dad428fa4b0dae4c
+      internalID: 172348474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_122
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93cd2a03f0a49f4d88c86f8700980c0
+      internalID: 985569806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_123
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 95
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416c7413a01811b4ea4b4b684d67b685
+      internalID: -2036682516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_124
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 95
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edb8033f6cb0c54597ee1f7456054dc
+      internalID: 2026983919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_125
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 51
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59aae328e43de4dacb066d4baac626
+      internalID: 844319796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 51
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c214ae23f016af41846745075c0a22f
+      internalID: 66658072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_127
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 51
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e4f8c9b00a0a4b9b7f7c41ae70a6e
+      internalID: -1449320992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_128
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 51
+        width: 148
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a56056e81dbab418b943e9e005c983
+      internalID: -1928982621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_129
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2c0ddb46f479e4b90e7e9d777c50f2
+      internalID: 249945143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_130
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b2ff8303d6e4f44bc3cdaad1a67910
+      internalID: -1013689905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_131
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 94
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe40756912153f844a6afc3314a29ae5
+      internalID: 1437663335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_132
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe01757b4bde2942a181d85748477a2
+      internalID: -109413156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_133
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f78a120eb35d4ba34a0ba2fe48c56
+      internalID: -701060912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_01_134
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a64d893e4cb347942369e408cd230
+      internalID: 1385778476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98451694b4b21874c820c668120481ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ammo_01_0: 87202651
+      Ammo_01_1: -1432320125
+      Ammo_01_10: -2137163184
+      Ammo_01_100: 647714877
+      Ammo_01_101: 589675601
+      Ammo_01_102: 710627524
+      Ammo_01_103: 620160019
+      Ammo_01_104: -132106489
+      Ammo_01_105: 1336180380
+      Ammo_01_106: -83681283
+      Ammo_01_107: -1483352153
+      Ammo_01_108: 1277004678
+      Ammo_01_109: 1777076060
+      Ammo_01_11: -519475118
+      Ammo_01_110: 1091282459
+      Ammo_01_111: 365638252
+      Ammo_01_112: -332623030
+      Ammo_01_113: 1531301219
+      Ammo_01_114: 2017805533
+      Ammo_01_115: -926698601
+      Ammo_01_116: 290101250
+      Ammo_01_117: -784100456
+      Ammo_01_118: 1831040913
+      Ammo_01_119: 109510991
+      Ammo_01_12: -1123721374
+      Ammo_01_120: 1459318328
+      Ammo_01_121: 172348474
+      Ammo_01_122: 985569806
+      Ammo_01_123: -2036682516
+      Ammo_01_124: 2026983919
+      Ammo_01_125: 844319796
+      Ammo_01_126: 66658072
+      Ammo_01_127: -1449320992
+      Ammo_01_128: -1928982621
+      Ammo_01_129: 249945143
+      Ammo_01_13: 288846764
+      Ammo_01_130: -1013689905
+      Ammo_01_131: 1437663335
+      Ammo_01_132: -109413156
+      Ammo_01_133: -701060912
+      Ammo_01_134: 1385778476
+      Ammo_01_14: 1660928995
+      Ammo_01_15: -48892687
+      Ammo_01_16: -962219084
+      Ammo_01_17: 1608035954
+      Ammo_01_18: -802432740
+      Ammo_01_19: 218116595
+      Ammo_01_2: -796707515
+      Ammo_01_20: -1341183555
+      Ammo_01_21: -970458938
+      Ammo_01_22: -93737601
+      Ammo_01_23: 1671395114
+      Ammo_01_24: -1483981176
+      Ammo_01_25: -1761648233
+      Ammo_01_26: -866589641
+      Ammo_01_27: -248247505
+      Ammo_01_28: 2095930813
+      Ammo_01_29: 1895979384
+      Ammo_01_3: 1599472183
+      Ammo_01_30: 1193166173
+      Ammo_01_31: 1580186716
+      Ammo_01_32: -392053836
+      Ammo_01_33: -2105703541
+      Ammo_01_34: -1981409614
+      Ammo_01_35: 997931565
+      Ammo_01_36: -2020093155
+      Ammo_01_37: -494780418
+      Ammo_01_38: -490931643
+      Ammo_01_39: -1515054606
+      Ammo_01_4: -850728400
+      Ammo_01_40: 1106052739
+      Ammo_01_41: -96086214
+      Ammo_01_42: -323715886
+      Ammo_01_43: -1587455012
+      Ammo_01_44: -1008570369
+      Ammo_01_45: 1021723148
+      Ammo_01_46: 2080029505
+      Ammo_01_47: 672740678
+      Ammo_01_48: 123930162
+      Ammo_01_49: -1260497420
+      Ammo_01_5: -1880100764
+      Ammo_01_50: 202125593
+      Ammo_01_51: -1782723168
+      Ammo_01_52: 606038970
+      Ammo_01_53: 1800969630
+      Ammo_01_54: -1238358525
+      Ammo_01_55: 259509450
+      Ammo_01_56: -1492578716
+      Ammo_01_57: 1236772301
+      Ammo_01_58: 459345134
+      Ammo_01_59: 232655038
+      Ammo_01_6: -1418466895
+      Ammo_01_60: 1400716924
+      Ammo_01_61: 905721703
+      Ammo_01_62: -1191976306
+      Ammo_01_63: 1166038616
+      Ammo_01_64: -1275164680
+      Ammo_01_65: -742368897
+      Ammo_01_66: -1045405954
+      Ammo_01_67: 726574223
+      Ammo_01_68: -634832238
+      Ammo_01_69: 2064649204
+      Ammo_01_7: -367678377
+      Ammo_01_70: 1890648039
+      Ammo_01_71: 2029689048
+      Ammo_01_72: 341891325
+      Ammo_01_73: -1568569211
+      Ammo_01_74: -1827632105
+      Ammo_01_75: -1954173383
+      Ammo_01_76: 241145656
+      Ammo_01_77: -187064054
+      Ammo_01_78: 1397755384
+      Ammo_01_79: 540100428
+      Ammo_01_8: 286699825
+      Ammo_01_80: 1364174896
+      Ammo_01_81: -1120364807
+      Ammo_01_82: 252418159
+      Ammo_01_83: -844693832
+      Ammo_01_84: 1140876781
+      Ammo_01_85: -183791794
+      Ammo_01_86: 1953362793
+      Ammo_01_87: -1147462156
+      Ammo_01_88: -1006264183
+      Ammo_01_89: -1666310657
+      Ammo_01_9: -1683648066
+      Ammo_01_90: 1095896204
+      Ammo_01_91: 1565903183
+      Ammo_01_92: -345046326
+      Ammo_01_93: 1920820720
+      Ammo_01_94: -2133901285
+      Ammo_01_95: -830743424
+      Ammo_01_96: 6562342
+      Ammo_01_97: 941360589
+      Ammo_01_98: -1010043993
+      Ammo_01_99: -1856205829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

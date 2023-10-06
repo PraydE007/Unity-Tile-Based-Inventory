@@ -1,0 +1,3528 @@
+fileFormatVersion: 2
+guid: 3246b35737e939d43bd4c94ce07f08cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Upgrades_01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 757
+        width: 98
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ac8756ab3281742b18c5587bef5a12
+      internalID: -778339987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 751
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c119ceef92084ea860fe19505ff24
+      internalID: 1603735905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 751
+        width: 82
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad573c869a7a254cab4b4a058bbed18
+      internalID: 1297295343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 751
+        width: 64
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf4ee098ad5e754093263e2ccf2fe6e
+      internalID: -1859444244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 751
+        width: 64
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c1d22593f416b49aab0c5d8530b8c6
+      internalID: -1273353170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 751
+        width: 64
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22779d3f00d35584d89e4aba0c9f3dfe
+      internalID: 1075035059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 707
+        width: 98
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ab5c8a7e90b1439fc7e9b5c23af45
+      internalID: 1257789076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 701
+        width: 43
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cb933c37a4ca941afc1496071a5b8f
+      internalID: -541798667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 701
+        width: 10
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c4e7dd71abd5343acc5d3728af36fe
+      internalID: -1339510061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 701
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7dd6683e46bc408be6f072ce162e7
+      internalID: -1785683870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 701
+        width: 82
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffed96ec74b33045aeeab0738b3d5e8
+      internalID: 652068528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 701
+        width: 10
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117becdd39b3a648a5b1939e60ee7a7
+      internalID: -1878394437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 701
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25443a872a8bf24082a6fe026ce35bb
+      internalID: 1023730095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 701
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e3e45fac0611e42a2d94896e78ba45
+      internalID: -77081817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 701
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b35a5449faa3c4a899a79b7eca382d
+      internalID: 900564847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 701
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc036338aaf2a4b4ea64ef234504126f
+      internalID: -1591855593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 701
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4969bb44d2ae464989143eaeb51c7ee
+      internalID: 176999520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 701
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d7e734208591c44be489cbe10ec4b2
+      internalID: -2136845665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 651
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec6f721b5b8d248a96c6c4389a49e0
+      internalID: 73844009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 651
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a29b4a2f54e74b489167ed46e40f6b8
+      internalID: -480527545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 651
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d06fa6df22605649a7147a938411b74
+      internalID: 811595089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 651
+        width: 68
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c613cd0f234d4898893cf812fb2e6
+      internalID: -111045590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 651
+        width: 12
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194330f079832484fbad60be90e50220
+      internalID: -1525691440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 651
+        width: 68
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97bff01e4cfec748aab35091af052ce
+      internalID: -2038817067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_24
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 651
+        width: 12
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb75ea2249e18449946b9938265080
+      internalID: 924287743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_25
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 651
+        width: 68
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19997e6e5a90ac349b3233e5f5a1fabe
+      internalID: -255045390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_26
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 651
+        width: 12
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0c32540299e7d4f9d08502ed9c6ffb
+      internalID: 961587886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 601
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dcd148d81e0dc4883b305e6ba7016a
+      internalID: -793389825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 601
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d488d66aa77a6014f89359fb10d0bf67
+      internalID: -1219587687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 601
+        width: 82
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02602ac038172846ac289d33a9be366
+      internalID: -86620437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 601
+        width: 9
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf4ec7e4c6cfa4aaf345e0ca6cbdf9
+      internalID: -1234029791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 601
+        width: 70
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73a5b147b683da4fb3a182e37575214
+      internalID: 2145506278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 601
+        width: 10
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bea7e164e58014b86b4e377deed89f
+      internalID: -1184140716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 601
+        width: 70
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fe205e3add961429d9e1cf76e66ee6
+      internalID: -1697142210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_34
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 601
+        width: 10
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f86e58bd1dab040ae0a434f7025e9a
+      internalID: 2141450336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_35
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 601
+        width: 70
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2222bf46c120e4fb0cd1d3b853505a
+      internalID: 252129026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 601
+        width: 10
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf9988f4ba6b4479dc0eb44cbff662
+      internalID: -2054620912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 551
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c1c6dbb79bb043b74d4115e87bdd4
+      internalID: 106134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 551
+        width: 98
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7766c6798359084589ce25cab0f45e0
+      internalID: 657245838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 551
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded97622752af27408a75e99ec1733ec
+      internalID: -960470336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 551
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d99e711c996542a0d436209bd02de
+      internalID: 1835800661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 551
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19358ed3c715f4eb2d8b2b307551a9
+      internalID: 1414816327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_42
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 551
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3445bdfacd7a44a69c1f30622a5ac
+      internalID: 1259110027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_43
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 551
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f1dd965290bc45a55aa9b72da158e
+      internalID: -792234832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_44
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 551
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a527dc821ec61f428737016e7ba7449
+      internalID: 181478677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_45
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 551
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b16a5057169afc46bc2a096266a6398
+      internalID: -1044958637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd35b8abf32ca54ebe86374cb1b4823
+      internalID: -1756244932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 501
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a58f07e34ab6e44bf5ac219a5278b2
+      internalID: 2110850612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 504
+        width: 13
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e14db3ff40f6342bba064716bf85fc
+      internalID: 2008048485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 501
+        width: 82
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e02f86d131654c45ac4f538bf77a0d0
+      internalID: -793805440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_50
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 504
+        width: 13
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee0bc67b4419e479006db5f21805e9
+      internalID: 1536111492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 501
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b60e3e185f3f40a3537585e358697
+      internalID: 1270243817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 501
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e82293a08a3480478d232cf134b294f
+      internalID: -1803895274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_53
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 501
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c390390bb05354442a692b51f26a1d5d
+      internalID: -1034169206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 501
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c14a9f5dd5a8444aafbdcd81ebc578
+      internalID: 777902933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_55
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 501
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b757a98e18574287d0ce7b152dd5d
+      internalID: -684215613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_56
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 501
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9998c0b25f73a8478516231d695f51a
+      internalID: 1157074102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 457
+        width: 98
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a6848844e20494e8621bcca43fdd71
+      internalID: -1121128304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 451
+        width: 43
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b155b31da0d6b294b8ec9fec173dfaa2
+      internalID: 141001315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_59
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 451
+        width: 13
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca8e3ccff3838c40b5128d17de98b78
+      internalID: -517814712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 451
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315f7d2de7794c428d94664d3042de0
+      internalID: -524746559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_61
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 451
+        width: 13
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cae8aff4a04e146922a067160c106e
+      internalID: 1522802579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 451
+        width: 82
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119ac7ca0dc7f4442aca8ee24d73b4c0
+      internalID: 1652792795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 451
+        width: 13
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76afb33aa8c8fe046a62d6066e4e60af
+      internalID: -1654807559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_64
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 451
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616e97b40758f64ea534b7c875d3e0d
+      internalID: 2102199396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_65
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 451
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7dd8bf2e99ab469b28f1dab11c867
+      internalID: -1567965345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_66
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 451
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a45eb925552bd4fa907359ff90da49
+      internalID: 2051186051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_67
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 451
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b72985f16e423347917d3a365148acc
+      internalID: -2134794162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_68
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 451
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5add0bcf4710cb4998138019d4293d3
+      internalID: -1301871444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_69
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 451
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d7d09000a701249813084b65036244
+      internalID: -1329518514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94656063455d6df4b80f905c86d9128a
+      internalID: -710475322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 401
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d9e2d1c9b0e94b83cf1e8d171eaa9
+      internalID: -1855582481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 401
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b07772893ec840bae9d19249c5529
+      internalID: -2020217461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_73
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 401
+        width: 65
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad711889b6b0f64287a4b1a56d1294c
+      internalID: -165335697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 401
+        width: 15
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafe5d5a12647754bb76ed5692713335
+      internalID: -1700067643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_75
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 401
+        width: 65
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3754898ec23fca1478b2c53a0aa9a6d9
+      internalID: -1491714696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_76
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 401
+        width: 15
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb4826baeba6414eb8d9cbcf2a81cdb
+      internalID: 587640353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_77
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 401
+        width: 65
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc6d68929285547b40df0cd60afcbb
+      internalID: 2016107150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_78
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 401
+        width: 15
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9270cd890bda13841b9d3fae449825a9
+      internalID: 1104048852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8bef37d87d7f94691e5dfff90ecf99
+      internalID: -280816296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 351
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f866f0d6a7841c64385074fe0cd2bc63
+      internalID: 952153070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 351
+        width: 82
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85099cf7b6facb4aafe080678721e64
+      internalID: 1558322107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_82
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 351
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38608309feaa9e34ea9ecf607a390b73
+      internalID: -1240649623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_83
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 351
+        width: 70
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04a31bdf7dbc543942252d425dbe8d
+      internalID: 1672225701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_84
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 351
+        width: 10
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b412b0876027b4ebc0012d631f49b9
+      internalID: -1786964896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_85
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 351
+        width: 70
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc298c438bf7a74aab2ba88d32543da
+      internalID: 585612601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_86
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 351
+        width: 10
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b280a288a6eb7634486f8d85cd921b87
+      internalID: 308692765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_87
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 351
+        width: 70
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5013235e8b1769409e6a110872d25da
+      internalID: -127159718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_88
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 351
+        width: 10
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642866aeb077e040808c6d80c836037
+      internalID: 1158273035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eaab220e90e0e4d99f8d3cb49da732
+      internalID: -1667821674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130eabd9906fa3b428b7421bc4dedb61
+      internalID: -248356382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 301
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c33f2f36b92524ba371b8db0ef21e4
+      internalID: -334477849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_92
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 301
+        width: 73
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c0b1e80bd59a24ba5d07e9bb5ebdd4
+      internalID: -1776454800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_93
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 301
+        width: 7
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb4f08f67e5c6499b3553dd7726bca
+      internalID: 1498377168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_94
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 301
+        width: 73
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb75ffb96496854bbba5f847e3555f8
+      internalID: -1720756005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_95
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 301
+        width: 7
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92354d92cb64b804caae2733fa8d0e76
+      internalID: 968819146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_96
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 301
+        width: 73
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079908e2d541a4d4db8501478160dc3a
+      internalID: 2028296124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_97
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 301
+        width: 7
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463a1cea414a88449885e5aa15e7387
+      internalID: 2024356771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48950420da4e06f4183b772d6b9fdb41
+      internalID: -1489697598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_99
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 251
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e2c9aa86b088447be551a7bbf7cf44
+      internalID: 502793004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 251
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014a69061f3c43419e60eef2548faed
+      internalID: 1560904711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 251
+        width: 69
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf176384cfd4ed043b81eae696f64ea2
+      internalID: 1202647725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_102
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 251
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd810606af27c449c1cd1f9d306c7c
+      internalID: 2093336949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_103
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 251
+        width: 69
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1a5a27125c4946845dd8cf284ef08
+      internalID: -260066858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_104
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 251
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbcba9c36ac4fa458dae091d05b61c6
+      internalID: 154516095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_105
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 251
+        width: 69
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d82520a74a51de489b9a1d087a2dcc6
+      internalID: 119473846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_106
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 251
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1e039088cc1ad4fa97ffc680128016
+      internalID: -1651037406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d7d49213846147a13e77fb0f0d719
+      internalID: 920509913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_108
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 201
+        width: 96
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6229b04a2d0ef824aa4e0fe43b497ebb
+      internalID: -1444829475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_109
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 201
+        width: 17
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480a84a13c2ae4c4abcfc3f71d701338
+      internalID: -1926794708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_110
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 201
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c9123d61d2c84192e84da8ed0425b
+      internalID: 1891080653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_111
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 201
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd219901cc4e744e806d5e44e79dc4c
+      internalID: -628393943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_112
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 201
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b41d6736ab7f47bb28d14487cf35b
+      internalID: -1500694987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_113
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 201
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64f36e47ff7514a8e0b576a352f410
+      internalID: -500130137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_114
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 201
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11967cbdcf651c4bb588d411419c0ec
+      internalID: 1850867282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_115
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 201
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc6a59fb0e9a740a9213d9e105ea5a
+      internalID: -1012390907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_116
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 201
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3acf1ec9fb5c354db58ec147bbb27fc
+      internalID: -801313685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 98
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ed4b08bdf3c8a4385e920e1f0b58c4
+      internalID: 1365008364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_118
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 151
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ca95dce78905145a12471c5f1b71c5
+      internalID: -1322346391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_119
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 151
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3093927ba60a040a618ed5fca807b7
+      internalID: 1336274738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_120
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 151
+        width: 68
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21466e2e291c6a42886527ae37487f0
+      internalID: -1788200212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_121
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 151
+        width: 12
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d58612cb31712a438fb735cef45f34b
+      internalID: -1287040446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_122
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 151
+        width: 68
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9870ce2a11524954e8ec2db7bf5d6bf5
+      internalID: 287469609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_123
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 151
+        width: 12
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a91ee50f33a27469c5d44bf76ba9a0
+      internalID: 1558669668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_124
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 151
+        width: 68
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba3e066c712d149aaa5312d8739a37
+      internalID: 420559873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_125
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 151
+        width: 12
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827a523de928c36459307c47425c9efb
+      internalID: 242442283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 98
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690f1a7c1ef6d2548810989c9e12b7ab
+      internalID: -1433299626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_127
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 101
+        width: 31
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e4c4d96f2e8e04886561a18994720d
+      internalID: -1915674961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_128
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 101
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3798f90459c55eb4fa1b3c344bbb1873
+      internalID: 708508869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_129
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7f3e937a32ff4f880e501337372bb
+      internalID: -1606416860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_130
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 101
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc216d6f5472641a928c60aa3594b3
+      internalID: -1501465803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_131
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 101
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d329416612e135742bacb7ced1ec60e2
+      internalID: 1964878335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_132
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 101
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba01db25494fa46a9bfb23e3daa638
+      internalID: -2064221274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_133
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 101
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103cb11d0403c0746bec59f6b057cc79
+      internalID: 2049582936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_134
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 101
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e1e691384cfe409e4f6fbb3829e2b
+      internalID: -987144987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_135
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 101
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e11c6824687c409e64a6e1f0f3980
+      internalID: 906768614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_136
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 101
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3662087fcb7e474cbbc1e799617d116
+      internalID: 1553015733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 98
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e2f34225c1924fb5e1f89f53629a0
+      internalID: -398508962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_138
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 51
+        width: 31
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739313a0aee74db498145d3e58c52dc0
+      internalID: -1325355183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_139
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6443c87ebdd0214db2a794df9878149
+      internalID: -1789949138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_140
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 97
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7cbd234694eda4aad54040ca639255
+      internalID: 1413692380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 51
+        width: 90
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853a19d426a49fd458c7b5af9802f1f1
+      internalID: -1889108254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_142
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 50
+        width: 66
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579e3070864e45a468b50830f7b89bca
+      internalID: -2091669096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_143
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 51
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59154fdce553a459589ceb1c0bc49e
+      internalID: -303083626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_144
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 50
+        width: 66
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02980f79e142db54e8ae2dadc6871135
+      internalID: -955574172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_145
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 51
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d603cef1e1542468620e6e83cefc21
+      internalID: -1527120588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_146
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 51
+        width: 66
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1801793d9f0864749bfd8eb1b9130ba0
+      internalID: 763522594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_147
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 51
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991e332502be4a41b9a3e3e88736819
+      internalID: -1760062208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_148
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1
+        width: 69
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a2d5b013930b848829ecba2c3028ef
+      internalID: -834837006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_149
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e9141de19f754485029cd9059513e
+      internalID: 1250946918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_150
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1
+        width: 69
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5ee7af45e39de41a96cd03a3b6bb3c
+      internalID: -2133628883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_151
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24ad37d78d798f459e825e00a1730a6
+      internalID: -469853884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_152
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1
+        width: 69
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b86274112cfda4cbf76f6b94332eb7
+      internalID: -588769810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_01_153
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 11
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c410d878738bc48aabef1733d7094f
+      internalID: 2129373328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3171851915eb49e43a9105a443ae2880
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Upgrades_01_0: -778339987
+      Upgrades_01_1: 1603735905
+      Upgrades_01_10: 652068528
+      Upgrades_01_100: 1560904711
+      Upgrades_01_101: 1202647725
+      Upgrades_01_102: 2093336949
+      Upgrades_01_103: -260066858
+      Upgrades_01_104: 154516095
+      Upgrades_01_105: 119473846
+      Upgrades_01_106: -1651037406
+      Upgrades_01_107: 920509913
+      Upgrades_01_108: -1444829475
+      Upgrades_01_109: -1926794708
+      Upgrades_01_11: -1878394437
+      Upgrades_01_110: 1891080653
+      Upgrades_01_111: -628393943
+      Upgrades_01_112: -1500694987
+      Upgrades_01_113: -500130137
+      Upgrades_01_114: 1850867282
+      Upgrades_01_115: -1012390907
+      Upgrades_01_116: -801313685
+      Upgrades_01_117: 1365008364
+      Upgrades_01_118: -1322346391
+      Upgrades_01_119: 1336274738
+      Upgrades_01_12: 1023730095
+      Upgrades_01_120: -1788200212
+      Upgrades_01_121: -1287040446
+      Upgrades_01_122: 287469609
+      Upgrades_01_123: 1558669668
+      Upgrades_01_124: 420559873
+      Upgrades_01_125: 242442283
+      Upgrades_01_126: -1433299626
+      Upgrades_01_127: -1915674961
+      Upgrades_01_128: 708508869
+      Upgrades_01_129: -1606416860
+      Upgrades_01_13: -77081817
+      Upgrades_01_130: -1501465803
+      Upgrades_01_131: 1964878335
+      Upgrades_01_132: -2064221274
+      Upgrades_01_133: 2049582936
+      Upgrades_01_134: -987144987
+      Upgrades_01_135: 906768614
+      Upgrades_01_136: 1553015733
+      Upgrades_01_137: -398508962
+      Upgrades_01_138: -1325355183
+      Upgrades_01_139: -1789949138
+      Upgrades_01_14: 900564847
+      Upgrades_01_140: 1413692380
+      Upgrades_01_141: -1889108254
+      Upgrades_01_142: -2091669096
+      Upgrades_01_143: -303083626
+      Upgrades_01_144: -955574172
+      Upgrades_01_145: -1527120588
+      Upgrades_01_146: 763522594
+      Upgrades_01_147: -1760062208
+      Upgrades_01_148: -834837006
+      Upgrades_01_149: 1250946918
+      Upgrades_01_15: -1591855593
+      Upgrades_01_150: -2133628883
+      Upgrades_01_151: -469853884
+      Upgrades_01_152: -588769810
+      Upgrades_01_153: 2129373328
+      Upgrades_01_16: 176999520
+      Upgrades_01_17: -2136845665
+      Upgrades_01_18: 73844009
+      Upgrades_01_19: -480527545
+      Upgrades_01_2: 1297295343
+      Upgrades_01_20: 811595089
+      Upgrades_01_21: -111045590
+      Upgrades_01_22: -1525691440
+      Upgrades_01_23: -2038817067
+      Upgrades_01_24: 924287743
+      Upgrades_01_25: -255045390
+      Upgrades_01_26: 961587886
+      Upgrades_01_27: -793389825
+      Upgrades_01_28: -1219587687
+      Upgrades_01_29: -86620437
+      Upgrades_01_3: -1859444244
+      Upgrades_01_30: -1234029791
+      Upgrades_01_31: 2145506278
+      Upgrades_01_32: -1184140716
+      Upgrades_01_33: -1697142210
+      Upgrades_01_34: 2141450336
+      Upgrades_01_35: 252129026
+      Upgrades_01_36: -2054620912
+      Upgrades_01_37: 106134
+      Upgrades_01_38: 657245838
+      Upgrades_01_39: -960470336
+      Upgrades_01_4: -1273353170
+      Upgrades_01_40: 1835800661
+      Upgrades_01_41: 1414816327
+      Upgrades_01_42: 1259110027
+      Upgrades_01_43: -792234832
+      Upgrades_01_44: 181478677
+      Upgrades_01_45: -1044958637
+      Upgrades_01_46: -1756244932
+      Upgrades_01_47: 2110850612
+      Upgrades_01_48: 2008048485
+      Upgrades_01_49: -793805440
+      Upgrades_01_5: 1075035059
+      Upgrades_01_50: 1536111492
+      Upgrades_01_51: 1270243817
+      Upgrades_01_52: -1803895274
+      Upgrades_01_53: -1034169206
+      Upgrades_01_54: 777902933
+      Upgrades_01_55: -684215613
+      Upgrades_01_56: 1157074102
+      Upgrades_01_57: -1121128304
+      Upgrades_01_58: 141001315
+      Upgrades_01_59: -517814712
+      Upgrades_01_6: 1257789076
+      Upgrades_01_60: -524746559
+      Upgrades_01_61: 1522802579
+      Upgrades_01_62: 1652792795
+      Upgrades_01_63: -1654807559
+      Upgrades_01_64: 2102199396
+      Upgrades_01_65: -1567965345
+      Upgrades_01_66: 2051186051
+      Upgrades_01_67: -2134794162
+      Upgrades_01_68: -1301871444
+      Upgrades_01_69: -1329518514
+      Upgrades_01_7: -541798667
+      Upgrades_01_70: -710475322
+      Upgrades_01_71: -1855582481
+      Upgrades_01_72: -2020217461
+      Upgrades_01_73: -165335697
+      Upgrades_01_74: -1700067643
+      Upgrades_01_75: -1491714696
+      Upgrades_01_76: 587640353
+      Upgrades_01_77: 2016107150
+      Upgrades_01_78: 1104048852
+      Upgrades_01_79: -280816296
+      Upgrades_01_8: -1339510061
+      Upgrades_01_80: 952153070
+      Upgrades_01_81: 1558322107
+      Upgrades_01_82: -1240649623
+      Upgrades_01_83: 1672225701
+      Upgrades_01_84: -1786964896
+      Upgrades_01_85: 585612601
+      Upgrades_01_86: 308692765
+      Upgrades_01_87: -127159718
+      Upgrades_01_88: 1158273035
+      Upgrades_01_89: -1667821674
+      Upgrades_01_9: -1785683870
+      Upgrades_01_90: -248356382
+      Upgrades_01_91: -334477849
+      Upgrades_01_92: -1776454800
+      Upgrades_01_93: 1498377168
+      Upgrades_01_94: -1720756005
+      Upgrades_01_95: 968819146
+      Upgrades_01_96: 2028296124
+      Upgrades_01_97: 2024356771
+      Upgrades_01_98: -1489697598
+      Upgrades_01_99: 502793004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

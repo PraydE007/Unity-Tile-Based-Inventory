@@ -1,0 +1,1658 @@
+fileFormatVersion: 2
+guid: 5196b9524f034ad4db5d3030ce4eb393
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Artefacts_01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b20e42909b97514499e85879c146885
+      internalID: -1691153875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 201
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa76dd9548ea54cb852e9768e871d7
+      internalID: -2005706268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 201
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba2652929ab2bd4bb03fd409a354507
+      internalID: -1110353688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 201
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a236dcc138ad447965b69091ba7ade
+      internalID: 1696761038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 204
+        width: 48
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2251c74545209ad4fbfa554ec676dbd7
+      internalID: -70604167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 203
+        width: 48
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecafb08266d6b4c48ae2472591a594eb
+      internalID: -703691263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 203
+        width: 48
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce9fa57724bb5a40affafeba31c0bd8
+      internalID: 270925944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 205
+        width: 48
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf12eac4abc52ba4686d4cd799465c16
+      internalID: -1699554814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 201
+        width: 42
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945331f69de7b6449e9a23d58941e16
+      internalID: -1717737399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 203
+        width: 48
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46262bfd57e339c40ab029f8b0428696
+      internalID: -726886430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 203
+        width: 48
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0365fec1a2f49249ba8d5b38e1dc29d
+      internalID: 1610149775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 201
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3925042aba2a004aa946f08a9d45f32
+      internalID: -1497762797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 204
+        width: 48
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c10e2d9ce2f3647bd98c7301631020
+      internalID: 1679242460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 202
+        width: 48
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85da0df8f40b5c2498c33d56301745f0
+      internalID: -546872359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 151
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7407aaee19f25ea47b462e7d86ca0e4f
+      internalID: 886001625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 40
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6f085743e472b44bb268f1a3fc4a23
+      internalID: 698900531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 154
+        width: 48
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1eeec9576a3d94b855835ce8d551a3
+      internalID: -751912159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a7f37199096a44aee3ee8f9017bd4
+      internalID: -1279816410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 153
+        width: 48
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbaf9d0c68bcca448b0f6790cc762ea
+      internalID: 1527585433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 151
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964620aae83de66408b48f72936300ab
+      internalID: -963534422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 151
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d4b7c8d944e14985bb77be40aee09
+      internalID: -1336767458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 151
+        width: 42
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f61b220a9ddb4ebf68045b3153ea7
+      internalID: 842391447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54f3bc5ab9a6f44888ea163500898a
+      internalID: 590060555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 151
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae96cea73dc204591b7c998474670d
+      internalID: -1497891991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 151
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0cc35663053641bcab85070bc9ba5
+      internalID: 444576283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_25
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 151
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f685f2987c4f9409c4c2456b63e12a
+      internalID: -1769289798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 151
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667202b6f0b73494fa0ab80f9821344a
+      internalID: -1221631981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_27
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 151
+        width: 38
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e1982e6ab409d4d8d85d59cb942706
+      internalID: -1079797992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 48
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec809254fb41b4f9909f7c932ad422
+      internalID: -715528915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea9122207df5c244b1e8a1e3bb0cf03
+      internalID: 1403045365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08eb42041de80409711e5b7dab31e8
+      internalID: 955531702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 101
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d794f7cab0ad4591faa55d85efa07
+      internalID: -1442771980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 48
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd229d904feb30489766a68a0d48c4f
+      internalID: -1740210454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 101
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26ae98ba5bb889469e775921fc8052e
+      internalID: 1502462323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 101
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffe4d09e1ce08a44ae6f80c50322ae3
+      internalID: -1739540916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 101
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a9a1f8da633f4ba06c382d2e1c58d
+      internalID: 1647572863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 101
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e8b17ae3ecaf1448efa80e415d9ff8
+      internalID: 1068135201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 104
+        width: 48
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfdd6796592926458f515e8be5b92a0
+      internalID: -1167859148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_38
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 104
+        width: 48
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9700eca649236204286117a6692d419d
+      internalID: 1447653477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 101
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bda6e3488d68d418ca81e8472730cb
+      internalID: -1734349324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_40
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 103
+        width: 48
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131fe20406a90eb4891ddb0d7b4bdeee
+      internalID: -1493578662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_41
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 101
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa4c37704225a43be510abbc2ae368
+      internalID: 1077215053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd3a00c22c5a2445a66d7b4a05a124a
+      internalID: 1144018181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 51
+        width: 42
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96253337ac9b562498272a6d77bc4379
+      internalID: 1890250405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 48
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e6f445e8841149a7daaf5c15526ca
+      internalID: -70242493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 55
+        width: 48
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8cdedfae46d14b8765254c461919a
+      internalID: -811079614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 51
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2802ec261cc534aaa60f084dcea6dc
+      internalID: 489142716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5584925d604135d48818be7a2a1721b8
+      internalID: -721871707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_48
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 52
+        width: 48
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c1e9f312e6c6849b07dc53ac433c27
+      internalID: -2078961741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 51
+        width: 45
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934bc1958aebe4418999ec39000e27a
+      internalID: -1662166374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 51
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228a97905590d34992904258b5b85f7
+      internalID: 1273716652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_51
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 61
+        width: 48
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e94430396a817e45a705f7c3d5933e6
+      internalID: 2123715780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_52
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 54
+        width: 48
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70892a1ee69793941a3d334f2a1900ad
+      internalID: -1497588366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 51
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b448ed1b7c04614d9ea155105b5f26c
+      internalID: 325040752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_54
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 53
+        width: 48
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3aec17e38a4914abcbe6ee8f91062d
+      internalID: -445847564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_55
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 51
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606a660148fbef145bd26c04e23a649b
+      internalID: 950532133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 48
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d163bdea7b273f64a861f00742c5eceb
+      internalID: 922219112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 40
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152ee0f9c02079346981fe9d10514aed
+      internalID: -776979378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 44
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8395358cf6e1409dcc4e24aa7a6c7
+      internalID: -1498433196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7ceb588c2334c43abdf723f59053b7
+      internalID: -245629253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38167e999295b894e8c614b4022d1af0
+      internalID: -652034312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 6
+        width: 48
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad5381fb4eeaaf43a6c7e048306a994
+      internalID: -1493825592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_62
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1
+        width: 34
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade16d48533d6ab4792f304d23406baf
+      internalID: 2142328526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_63
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22bb9892d8212d42948b9ba2eaf3c05
+      internalID: -2021872245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88880208351444b4f84e4f1183cf544f
+      internalID: 1751883144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_65
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ed7ddd59fc3684c9ca057b6e86be41
+      internalID: -521484670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_66
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1
+        width: 46
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3865c7e9605ed354e957b8a735942a39
+      internalID: 1886031556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_67
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307faff955fdf0469dbaf90b2a9905e
+      internalID: 1783561422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artefacts_01_68
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963cad8879f04b94bae7c76fe9c77381
+      internalID: 1883228963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4bc710b81dd679b44b185655b265e099
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Artefacts_01_0: -1691153875
+      Artefacts_01_1: -2005706268
+      Artefacts_01_10: 1610149775
+      Artefacts_01_11: -1497762797
+      Artefacts_01_12: 1679242460
+      Artefacts_01_13: -546872359
+      Artefacts_01_14: 886001625
+      Artefacts_01_15: 698900531
+      Artefacts_01_16: -751912159
+      Artefacts_01_17: -1279816410
+      Artefacts_01_18: 1527585433
+      Artefacts_01_19: -963534422
+      Artefacts_01_2: -1110353688
+      Artefacts_01_20: -1336767458
+      Artefacts_01_21: 842391447
+      Artefacts_01_22: 590060555
+      Artefacts_01_23: -1497891991
+      Artefacts_01_24: 444576283
+      Artefacts_01_25: -1769289798
+      Artefacts_01_26: -1221631981
+      Artefacts_01_27: -1079797992
+      Artefacts_01_28: -715528915
+      Artefacts_01_29: 1403045365
+      Artefacts_01_3: 1696761038
+      Artefacts_01_30: 955531702
+      Artefacts_01_31: -1442771980
+      Artefacts_01_32: -1740210454
+      Artefacts_01_33: 1502462323
+      Artefacts_01_34: -1739540916
+      Artefacts_01_35: 1647572863
+      Artefacts_01_36: 1068135201
+      Artefacts_01_37: -1167859148
+      Artefacts_01_38: 1447653477
+      Artefacts_01_39: -1734349324
+      Artefacts_01_4: -70604167
+      Artefacts_01_40: -1493578662
+      Artefacts_01_41: 1077215053
+      Artefacts_01_42: 1144018181
+      Artefacts_01_43: 1890250405
+      Artefacts_01_44: -70242493
+      Artefacts_01_45: -811079614
+      Artefacts_01_46: 489142716
+      Artefacts_01_47: -721871707
+      Artefacts_01_48: -2078961741
+      Artefacts_01_49: -1662166374
+      Artefacts_01_5: -703691263
+      Artefacts_01_50: 1273716652
+      Artefacts_01_51: 2123715780
+      Artefacts_01_52: -1497588366
+      Artefacts_01_53: 325040752
+      Artefacts_01_54: -445847564
+      Artefacts_01_55: 950532133
+      Artefacts_01_56: 922219112
+      Artefacts_01_57: -776979378
+      Artefacts_01_58: -1498433196
+      Artefacts_01_59: -245629253
+      Artefacts_01_6: 270925944
+      Artefacts_01_60: -652034312
+      Artefacts_01_61: -1493825592
+      Artefacts_01_62: 2142328526
+      Artefacts_01_63: -2021872245
+      Artefacts_01_64: 1751883144
+      Artefacts_01_65: -521484670
+      Artefacts_01_66: 1886031556
+      Artefacts_01_67: 1783561422
+      Artefacts_01_68: 1883228963
+      Artefacts_01_7: -1699554814
+      Artefacts_01_8: -1717737399
+      Artefacts_01_9: -726886430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
